@@ -16,7 +16,12 @@ public class MiPrimerProyecto {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Account myAccount = new Account();
+        Dog firulais = new Dog("NameDogs",4,42,"")
+                
+    }
+    
+}
+/*Account myAccount = new Account();
         Account myOtherAccount = new Account (10.0, "12345678");
         System.out.println("balance =" + myAccount.getBalance());
         System.out.println("number =" + myAccount.getNumber());
@@ -27,7 +32,4 @@ public class MiPrimerProyecto {
         myAccount.withdrawal(15.0);
         myOtherAccount.withdrawal(40.0);
         System.out.println("my account balance =" + myAccount.getBalance());
-        System.out.println("my other account balance =" + myOtherAccount.getBalance());
-    }
-    
-}
+        System.out.println("my other account balance =" + myOtherAccount.getBalance());*/
